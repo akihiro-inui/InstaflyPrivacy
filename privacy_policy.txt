@@ -1,0 +1,18 @@
+Privacy Policy
+This policy applies to all information collected or submitted on Akihiro Inui’s iOS application Instafly.
+
+Information I collect
+When you use my app, you will be asked for the permission to access to your camera and photo library.
+Former is to capture the photo in order to evaluate the photogenic score and the latter is used to save the screenshot of the evaluation result.
+
+I will not store any of those image files.
+
+California Online Privacy Protection Act Compliance
+We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+Your Consent
+By using my app, you consent to this privacy policy.
+
+Contacting Me
+If you have questions regarding this privacy policy, you may email mail[at]akihiroinui.com 
+
